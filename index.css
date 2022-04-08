@@ -1,0 +1,43 @@
+.container-produtos{
+
+    display:grid; 
+    
+}
+
+.produto{
+   
+    margin: auto;
+    display: flex;
+    
+}
+.descricao-produto{
+    width: 300px;
+   margin: auto 50px;
+   padding: 20px; 
+}
+.categorias-produtos{
+
+  
+    text-align: center;
+    margin: 50px auto;
+ 
+}
+button{
+    padding: 15px;
+    background-color: rgb(57, 70, 65);
+ color: white;
+ font-weight: bold;
+ border:solid 2px black;
+
+}
+
+button:hover{
+
+    border: solid 2px white;
+}
+img{
+ 
+ 
+    margin: auto 50px;
+    width: 350px;
+}
